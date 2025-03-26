@@ -1,5 +1,3 @@
-https://prproj.com/
-
 Premiere Project Downgrader - Free prproj Version Convert
 
 Free online downgrade Premiere Pro file (.prproj) Converter Tools.
@@ -7,8 +5,6 @@ Free online downgrade Premiere Pro file (.prproj) Converter Tools.
 Open newer Premiere projects in older versions of Premiere Pro. Downgrade .prproj files to previous version with this tool.
 
 This is a free online Premiere Pro Project File downgrade or conversion tool. Automatically downgrade to the lowest version and download the downgraded file after selecting the prproj file. You can also choose the Premiere Pro version for conversion if you need it. Note: This tool directly changes the software version number in the prproj file. After downgrading or conversion, some filters and effects may be lost. (new features in higher versions cannot be used in lower versions). It is worth mentioning that your files are processed on your computer and will not be uploaded to the website server, so there is no need to worry about your files being leaked.
-
-https://prproj.com/cn/
 
 Pr工程文件降级/版本转换工具
 
